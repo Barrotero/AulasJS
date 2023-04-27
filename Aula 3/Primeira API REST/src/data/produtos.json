@@ -1,0 +1,34 @@
+[
+{
+    "nome": "Xampu",
+    "descrição": "Para cabelos",
+    "preço": "R$10,00",
+    "marca": "Loreal"
+},
+
+{
+    "nome": "Desodorante",
+    "descrição": "Do bom",
+    "preço": "R$8,00",
+    "marca": "Dove"
+},
+
+{
+    "nome": "Batom",
+    "descrição": "Vermelho",
+    "preço": "R$5,00",
+    "marca": "Rouge"
+},
+{
+    "nome": "Toalha",
+    "descrição": "Enxuga bem",
+    "preço": "R$20,00",
+    "marca": "Enxoval"
+},
+{
+    "nome": "Secador de Cabelo",
+    "descrição": "Para cabelos molhados",
+    "preço": "R$200,00",
+    "marca": "Paris"
+}
+]
