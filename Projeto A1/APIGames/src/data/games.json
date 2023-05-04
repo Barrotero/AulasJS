@@ -1,0 +1,101 @@
+[
+    {
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "data_lancamento": "2017-03-03",
+      "genero": "Ação e Aventura",
+      "plataforma": "Nintendo Switch",
+      "classificacao_etaria": "Livre",
+      "desenvolvedor": "Nintendo",
+      "produtora": "Nintendo"
+    },
+    {
+      "titulo": "Red Dead Redemption 2",
+      "data_lancamento": "2018-10-26",
+      "genero": "Ação e Aventura",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "classificacao_etaria": "18+",
+      "desenvolvedor": "Rockstar Studios",
+      "produtora": "Rockstar Games"
+    },
+    {
+      "titulo": "Fortnite",
+      "data_lancamento": "2017-07-25",
+      "genero": "Battle Royale, Sobrevivência",
+      "plataforma": "PlayStation 5, PlayStation 4, Xbox Series X/S, Xbox One, Nintendo Switch, PC, Android, iOS",
+      "classificacao_etaria": "12+",
+      "desenvolvedor": "Epic Games",
+      "produtora": "Epic Games"
+    },
+    {
+      "titulo": "FIFA 22",
+      "data_lancamento": "2021-10-01",
+      "genero": "Esportes",
+      "plataforma": "PlayStation 5, PlayStation 4, Xbox Series X/S, Xbox One, PC",
+      "classificacao_etaria": "Livre",
+      "desenvolvedor": "EA Vancouver",
+      "produtora": "Electronic Arts"
+    },
+    {
+      "titulo": "The Last of Us Part II",
+      "data_lancamento": "2020-06-19",
+      "genero": "Ação e Aventura",
+      "plataforma": "PlayStation 4",
+      "classificacao_etaria": "18+",
+      "desenvolvedor": "Naughty Dog",
+      "produtora": "Sony Interactive Entertainment"
+    },
+    {
+      "titulo": "Assassin's Creed Valhalla",
+      "data_lancamento": "2020-11-10",
+      "genero": "Ação e Aventura, RPG",
+      "plataforma": "PlayStation 5, PlayStation 4, Xbox Series X/S, Xbox One, PC",
+      "classificacao_etaria": "18+",
+      "desenvolvedor": "Ubisoft Montreal",
+      "produtora": "Ubisoft"
+    },
+    {
+      "titulo": "Cyberpunk 2077",
+      "data_lancamento": "2020-12-10",
+      "genero": "RPG, Ação",
+      "plataforma": "PlayStation 5, PlayStation 4, Xbox Series X/S, Xbox One, PC",
+      "classificacao_etaria": "18+",
+      "desenvolvedor": "CD Projekt Red",
+      "produtora": "CD Projekt"
+    },
+    {
+        "titulo": "God of War",
+        "data_lancamento": "20/04/2018",
+        "genero": "Ação e Aventura",
+        "plataforma": "PlayStation 4",
+        "classificacao_etaria": "18+",
+        "desenvolvedor": "Santa Monica Studio",
+        "produtora": "Sony Interactive Entertainment"
+    },
+    {
+        "titulo": "Call of Duty: Modern Warfare",
+        "data_lancamento": "25/10/2019",
+        "genero": "FPS",
+        "plataforma": "PlayStation 4, Xbox One, PC",
+        "classificacao_etaria": "18+",
+        "desenvolvedor": "Infinity Ward",
+        "produtora": "Activision"
+    },
+    {
+        "titulo": "Final Fantasy VII",
+        "data_lancamento": "31/01/1997",
+        "genero": "RPG, Aventura",
+        "plataforma": "PlayStation, Nintendo Switch, PlayStation 4, Android, PlayStation Portable, Xbox One, iOS, Microsoft Windows",
+        "classificacao_etaria": "14+",
+        "desenvolvedor": "Square Enix, Square Co.",
+        "produtora": "Square Enix"
+    },
+    {
+        "titulo": "Final Fantasy XVI",
+        "data_lancamento": "22/06/2023",
+        "genero": "RPG, Aventura",
+        "plataforma": "PlayStation 5",
+        "classificacao_etaria": "14+",
+        "desenvolvedor": "Square Enix, Creative Business Unit III",
+        "produtora": "Square Enix"
+    }
+]

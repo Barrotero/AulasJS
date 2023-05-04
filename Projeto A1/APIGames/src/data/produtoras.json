@@ -1,0 +1,37 @@
+[
+    {
+        "titulo": "FIFA 22",
+        "produtora": "Electronic Arts (EA)",
+        "país": "Estados Unidos",
+        "website": "https://www.ea.com/games/fifa/fifa-22",
+        "instagram": "https://www.instagram.com/easportsfifa/"
+    },
+    {
+        "titulo": "Cyberpunk 2077",
+        "produtora": "CD Projekt Red",
+        "país": "Polônia",
+        "website": "https://www.cyberpunk.net/",
+        "instagram": "https://www.instagram.com/cyberpunkgame/"
+    },
+    {
+        "titulo": "God of War",
+        "produtora": "Santa Monica Studio",
+        "país": "Estados Unidos",
+        "website": "https://www.santamonicastudio.com/games/god-of-war",
+        "instagram": "https://www.instagram.com/santamonicastudio/"
+    },
+    {
+        "titulo": "Call of Duty: Modern Warfare",
+        "produtora": "Infinity Ward",
+        "país": "Estados Unidos",
+        "website": "https://www.callofduty.com/modernwarfare",
+        "instagram": "https://www.instagram.com/callofduty/"
+    },
+    {
+        "titulo": "Final Fantasy VII",
+        "produtora": "Square Enix",
+        "país": "Japão",
+        "website": "https://square-enix-games.com/en_US/games/final-fantasy-vii-remake",
+        "instagram": "https://www.instagram.com/finalfantasyvii/"
+    }
+]
